@@ -1,6 +1,6 @@
 # LAI Apps Gallery
 
-Bản demo tĩnh cho `apps.lai.id.vn`, giới thiệu các ứng dụng LAI theo kiểu phòng trưng bày.
+Bản demo tĩnh cho `apps.lai.id.vn`, giới thiệu các ứng dụng của LAI Production theo kiểu phòng trưng bày.
 
 - Mở `index.html` để xem. CSS và JavaScript nằm trong file này; icon nằm trong `assets/`.
 - Nội dung 9 ứng dụng và liên kết được quản lý tập trung trong mảng `products` ở cuối `index.html`.
